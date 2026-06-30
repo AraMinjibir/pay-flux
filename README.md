@@ -196,3 +196,4 @@ cargo sqlx database setup
 ```bash
 cargo run
 ```
+<!-- PayFlux is a high-performance payment orchestration engine built in Rust for reliable, fault-tolerant payment execution across multiple providers. It explores core payment infrastructure patterns, including distributed idempotency, provider failover, retry strategies, and deterministic transaction state management. -->

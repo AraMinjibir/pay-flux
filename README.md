@@ -141,6 +141,7 @@ Every request is validated, protected by Redis-backed idempotency, persisted bef
 ### Included
 
 * Payment creation
+* Payment state machine
 * Provider abstraction
 * Retry & failover
 * Distributed idempotency
